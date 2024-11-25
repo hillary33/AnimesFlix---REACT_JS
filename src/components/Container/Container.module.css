@@ -1,0 +1,12 @@
+.container {
+    width: 100%;
+    height: 100%;
+    background-color: #383836;
+    text-align: center;
+    color: #fff;
+}
+.container h2 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-size: 2rem;
+}

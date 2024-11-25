@@ -1,0 +1,32 @@
+[
+    {
+        "id": "jujutsu-kaisen-hd/",
+        "img": "./images/jk.png",
+        "title": "Jujutsu Kaisen",
+        "url": "https://animesonlinecc.to/anime/jujutsu-kaisen-hd/"
+    },
+    {
+        "id": "naruto-shippuden/",
+        "img": "./images/narutoBanner4.png",
+        "title": "Naruto Shippuden",
+        "url": "https://animesonlinecc.to/anime/naruto-shippuden/"
+    },
+    {
+        "id": "one-piece/",
+        "img": "./images/opBanner3.png",
+        "title": "One Piece",
+        "url": "https://animesonlinecc.to/anime/one-piece/"
+    },
+    {
+        "id": "dragon-ball-z/",
+        "img": "./images/dragon-ball-z.png",
+        "title": "Dragon Ball Z",
+        "url": "https://animesonlinecc.to/anime/dragon-ball-z/"
+    },
+    {
+        "id": "nanatsu-no-taizai-hd/",
+        "img": "./images/nanatsu-no-taizai.png",
+        "title": "Nanatsu no Taizai",
+        "url": "https://animesonlinecc.to/anime/nanatsu-no-taizai-hd/"
+    }
+]
