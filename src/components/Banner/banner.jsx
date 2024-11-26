@@ -5,7 +5,7 @@ export default function Banner({ image }){
         <>
             <div 
                 className={styles.banner}
-                style={ { backgroundImage: `url('/images/animes${image}.png')`} }
+                style={ { backgroundImage: `url('/images/anime${image}.jpg')`} }
             >
 
             </div>

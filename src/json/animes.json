@@ -1,222 +1,492 @@
-[ 
-    {
-        "id": "jujutsu-kaisen-hd/",
-        "img": "./images/jk.png",
-        "title": "Jujutsu Kaisen",
-        "url": "https://animesonlinecc.to/anime/jujutsu-kaisen-hd/",
-        "category": "Ação e aventura"
-    },
-    {
-        "id": "naruto-shippuden/",
-        "img": "./images/narutoBanner4.png",
-        "title": "Naruto Shippuden",
-        "url": "https://animesonlinecc.to/anime/naruto-shippuden/",
-        "category": "Ação e aventura"
-    },
-    {
-        "id": "one-piece/",
-        "img": "./images/opBanner3.png",
-        "title": "One Piece",
-        "url": "https://animesonlinecc.to/anime/one-piece/",
-        "category": "Ação e aventura"
-    },
-    {
-        "id": "dragon-ball-z/",
-        "img": "./images/dragon-ball-z.png",
-        "title": "Dragon Ball Z",
-        "url": "https://animesonlinecc.to/anime/dragon-ball-z/",
-        "category": "Ação e aventura"
-
-    },
-    {
-        "id": "nanatsu-no-taizai-hd/",
-        "img": "./images/nanatsu-no-taizai.png",
-        "title": "Nanatsu no Taizai",
-        "url": "https://animesonlinecc.to/anime/nanatsu-no-taizai-hd/",
-        "category": "Ação e aventura"
-    },
-    {
-      "id": "YzBkkC2SXxM",
-      "title": "Formas de representação da Terra: os mapas",
-      "img": "https://img.youtube.com/vi/YzBkkC2SXxM/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=YzBkkC2SXxM",
-      "category": "Geografia"
-    },
-    {
-      "id": "pHJKEwJarSo",
-      "title": "SHORT: As paisagens do mundo",
-      "img": "https://img.youtube.com/vi/pHJKEwJarSo/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=pHJKEwJarSo",
-      "category": "Geografia"
-    },
-    {
-        "id": "zBVCW8xc19Q",
-        "title": "Como fazer Globo Terrestre",
-        "url": "https://www.youtube.com/watch?v=zBVCW8xc19Q",
-        "img": "https://img.youtube.com/vi/zBVCW8xc19Q/maxresdefault.jpg",
-        "category": "Como fazer e usar"
-    },
-    {
-        "id": "pYG6MUbLnVY",
-        "title": "Como fazer bússola",
-        "url": "https://www.youtube.com/watch?v=pYG6MUbLnVY",
-        "img": "https://img.youtube.com/vi/pYG6MUbLnVY/maxresdefault.jpg",
-        "category": "Como fazer e usar"
-    },
-    {
-        "id": "pvFy8PhJ-sY",
-        "title": "Como fazer Jogo da Memória de Orientação em Geografia",
-        "url": "https://www.youtube.com/watch?v=pvFy8PhJ-sY",
-        "img": "https://img.youtube.com/vi/pvFy8PhJ-sY/maxresdefault.jpg",
-        "category": "Como fazer e usar"
-    },
-    {
-        "id": "Cy7Y8Jmdw8w",
-        "title": "Como fazer Jogo da Memória impresso",
-        "url": "https://www.youtube.com/watch?v=Cy7Y8Jmdw8w",
-        "img": "https://img.youtube.com/vi/Cy7Y8Jmdw8w/maxresdefault.jpg",
-        "category": "Como fazer e usar"
-    },
-    {
-        "id": "AeHMawcMxVQ",
-        "title": "Produzir maquete em EVA",
-        "url": "https://www.youtube.com/watch?v=AeHMawcMxVQ",
-        "img": "https://img.youtube.com/vi/AeHMawcMxVQ/maxresdefault.jpg",
-        "category": "Como fazer e usar"
-    },
-    {
-      "id": "1PZIVrYUIhI",
-      "title": "Extra 01 - Como usar o Google Earth",
-      "url": "https://www.youtube.com/watch?v=1PZIVrYUIhI",
-      "img": "https://img.youtube.com/vi/1PZIVrYUIhI/maxresdefault.jpg",
-      "category": "Como fazer e usar"
-    },
-    {
-      "id": "70LgFtkVfzY",
-      "title": "Extra 02 - App Merge Explorer",
-      "url": "https://www.youtube.com/watch?v=70LgFtkVfzY",
-      "img": "https://img.youtube.com/vi/70LgFtkVfzY/maxresdefault.jpg",
-      "category": "Como fazer e usar"
-    },
-    {
-      
-      "id": "UerCpbS4KJk",
-      "title": "Como fazer Papel Machê para fazer maquetes e outros fins",
-      "url": "https://www.youtube.com/watch?v=UerCpbS4KJk",
-      "img": "https://img.youtube.com/vi/UerCpbS4KJk/maxresdefault.jpg",
-      "category": "Como fazer e usar"
-    },
-    {
-      "id": "j93GpAPaLx8",
-      "title": "Como fazer Maquetes do Relevo e Hidrografia",
-      "url": "https://www.youtube.com/watch?v=j93GpAPaLx8",
-      "img": "https://img.youtube.com/vi/j93GpAPaLx8/maxresdefault.jpg",
-      "category": "Como fazer e usar"
-    },
-    {
-      "id": "zddTZjpEOxA",
-      "title": "Como pintar Maquetes do Relevo e Hidrografia",
-      "url": "https://www.youtube.com/watch?v=zddTZjpEOxA",
-      "img": "https://img.youtube.com/vi/zddTZjpEOxA/maxresdefault.jpg",
-      "category": "Como fazer e usar"
-    },
-    {
-      "id": "2JTPUXqWEKg",
-      "title": "A Terra no Sistema Solar",
-      "url": "https://www.youtube.com/watch?v=2JTPUXqWEKg",
-      "img": "https://img.youtube.com/vi/2JTPUXqWEKg/maxresdefault.jpg",
-      "category": "Astronomia e Geografia"
-    },
-    {
-      "id": "_hvwmwCIbSA",
-      "title": "A Terra em movimento Rotação e Translação",
-      "url": "https://www.youtube.com/watch?v=_hvwmwCIbSA",
-      "img": "https://img.youtube.com/vi/_hvwmwCIbSA/maxresdefault.jpg",
-      "category": "Astronomia e Geografia"
-    },
-    {
-      "id": "1lZDLyMKwwE",
-      "title": "A circulação geral da atmosfera, o tempo e o clima",
-      "url": "https://www.youtube.com/watch?v=1lZDLyMKwwE",
-      "img": "https://img.youtube.com/vi/1lZDLyMKwwE/maxresdefault.jpg",
-      "category": "Climatologia, Meteorologia, Vegetação"
-    },
-    {
-      "id": "V-v3wTK_KpI",
-      "title": "As intervenções humanas na dinâmica climáticas",
-      "url": "https://www.youtube.com/watch?v=V-v3wTK_KpI",
-      "img": "https://img.youtube.com/vi/V-v3wTK_KpI/maxresdefault.jpg",
-      "category": "Climatologia, Meteorologia, Vegetação"
-    },
-    {
-      "id": "11NJB81im1Q",
-      "title": "Ciclones, Furacões, Tufões e Tornados",
-      "url": "https://www.youtube.com/watch?v=11NJB81im1Q",
-      "img": "https://img.youtube.com/vi/11NJB81im1Q/maxresdefault.jpg",
-      "category": "Climatologia, Meteorologia, Vegetação"
-    },
-    {
-      "id": "bhQsWpGSLeQ",
-      "title": "Os climas e a vegetação natural",
-      "url": "https://www.youtube.com/watch?v=bhQsWpGSLeQ",
-      "img": "https://img.youtube.com/vi/bhQsWpGSLeQ/maxresdefault.jpg",
-      "category": "Climatologia, Meteorologia, Vegetação"
-    },
-    {
-      "id": "oYZZybbhJII",
-      "title": "Os climas do mundo e do Brasil",
-      "url": "https://www.youtube.com/watch?v=oYZZybbhJII",
-      "img": "https://img.youtube.com/vi/oYZZybbhJII/maxresdefault.jpg",
-      "category": "Climatologia, Meteorologia, Vegetação"
-    },
-    {
-      "id": "tnFEqmtoNY8",
-      "title": "Terra: Grandes paisagens vegetais naturais",
-      "url": "https://www.youtube.com/watch?v=tnFEqmtoNY8",
-      "img": "https://img.youtube.com/vi/tnFEqmtoNY8/maxresdefault.jpg",
-      "category": "Climatologia, Meteorologia, Vegetação"
-    },
-    {
-      "id": "of5e0QO6BtY",
-      "title": "GEOGRAFIA Chuvas na Bahia em dezembro de 2021 e suas causas",
-      "url": "https://www.youtube.com/watch?v=of5e0QO6BtY",
-      "img": "https://img.youtube.com/vi/of5e0QO6BtY/maxresdefault.jpg",
-      "category": "Climatologia, Meteorologia, Vegetação"
-    },
-    {
-      "id": "PY4VyxfefqY",
-      "title": "GEOGRAFIA Chuvas no litoral norte de São Paulo 2023",
-      "url": "https://www.youtube.com/watch?v=PY4VyxfefqY",
-      "img": "https://img.youtube.com/vi/PY4VyxfefqY/maxresdefault.jpg",
-      "category": "Climatologia, Meteorologia, Vegetação"
-    },
-    {
-      "id": "cp_xDdMT6eU",
-      "title": "Litosfera e Relevo Continental",
-      "url": "https://www.youtube.com/watch?v=cp_xDdMT6eU",
-      "img": "https://img.youtube.com/vi/cp_xDdMT6eU/maxresdefault.jpg",
-      "category": "Geologia e Hidrografia"
-    },
-    {
-      "id": "3XPAx3aQ760",
-      "title": "Relevo Continental e Agentes Externos",
-      "url": "https://www.youtube.com/watch?v=3XPAx3aQ760",
-      "img": "https://img.youtube.com/vi/3XPAx3aQ760/maxresdefault.jpg",
-      "category": "Geologia e Hidrografia"
-    },
-    {
-      "id": "QWBDmGd9t4s",
-      "title": "A Hidrosfera e a distribuição das águas",
-      "url": "https://www.youtube.com/watch?v=QWBDmGd9t4s",
-      "img": "https://img.youtube.com/vi/QWBDmGd9t4s/maxresdefault.jpg",
-      "category": "Geologia e Hidrografia"
-    },
-    {
-      "id": "4ADuk1kY6Vw",
-      "title": "GEOGRAFIA Terremoto na Turquia e na Síria 2023",
-      "url": "https://www.youtube.com/watch?v=4ADuk1kY6Vw",
-      "img": "https://img.youtube.com/vi/4ADuk1kY6Vw/maxresdefault.jpg",
-      "category": "Geologia e Hidrografia"
-    }
-  
-  ]
+[
+  {
+    "id": "jujutsu-kaisen-hd/",
+    "title": "Jujutsu Kaisen",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2020/09/voajKwMZyb8Zj8Ahc2PhPQ67EAe-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/jujutsu-kaisen-hd/",
+    "category": "Ação e Aventura"
+  },
+  {
+    "id": "naruto-shippuden/",
+    "title": "Naruto Shippuden",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2019/09/ic9Gb4Zz09ns3JPYHdax8u5kt0n-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/naruto-shippuden/",
+    "category": "Ação e Aventura"
+  },
+  {
+    "id": "one-piece/",
+    "title": "One Piece",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2019/06/adfe2e276029a526d76fa0a161a6a9fd-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/one-piece/",
+    "category": "Ação e Aventura"
+  },
+  {
+    "id": "dragon-ball-z/",
+    "title": "Dragon Ball Z",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2019/07/at8qCUXBEbJCY0Hn9qDvzQ6EQ4H-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/dragon-ball-z/",
+    "category": "Ação e Aventura"
+  },
+  {
+    "id": "nanatsu-no-taizai-hd/",
+    "title": "Nanatsu no Taizai",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2019/09/7sjz43r1dkBpvecDMiiRVNYVllb-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/nanatsu-no-taizai-hd/",
+    "category": "Ação e Aventura"
+  },
+  {
+    "id": "hunter-x-hunter-2011/",
+    "title": "Hunter x Hunter 2011",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2020/01/obCPZOFe9IoBwZW8NbnRhFAhQxU-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/hunter-x-hunter-2011/",
+    "category": "Ação e Aventura"
+  },
+  {
+    "id": "black-clover/",
+    "title": "Black Clover",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2019/07/kZ3ZGOGrUvYKA1erts8ckynMduv-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/black-clover/",
+    "category": "Ação e Aventura"
+  },
+  {
+    "id": "koi-wa-futago-de-warikirenai/",
+    "title": "Koi wa Futago de Warikirenai ",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/07/8384NJd4aIMdJZnz9KmhKvDJ76w-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/koi-wa-futago-de-warikirenai/",
+    "category": "Romance"
+  },
+  {
+    "id": "rekishi-ni-nokoru-akujo-ni-naru-zo/",
+    "title": "Rekishi ni Nokoru Akujo ni Naru zo ",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/10/uTK2gobOMOav1T7tLvoxrPvx6fP-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/rekishi-ni-nokoru-akujo-ni-naru-zo/",
+    "category": "Romance"
+  },
+  {
+    "id": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita/",
+    "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/07/9NivXf13bsUsL5ipeZwByuwJLcB-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita/",
+    "category": "Romance"
+  },
+  {
+    "id": "make-heroine-ga-oosugiru/",
+    "title": "Make Heroine ga Oosugiru!",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/07/dPqZGwcd9BpMj80uAr4PjCgf0v4-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/make-heroine-ga-oosugiru/",
+    "category": "Romance"
+  },
+  {
+    "id": "yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu/",
+    "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/10/rv0ILP11johWIj9ceHSnWfYP9RJ-1-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu/",
+    "category": "Romance"
+  },
+  {
+    "id": "raise-wa-tanin-ga-ii/",
+    "title": "Raise wa Tanin ga Ii",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/10/9xztd5hoq0OstNRru024aAxSNWd-1-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/raise-wa-tanin-ga-ii/",
+    "category": "Romance"
+  },
+  {
+    "id": "atri-my-dear-moments/",
+    "title": "Atri: My Dear Moments",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/07/6PkqueE4MajJdfaPv5bT4u1dv3b-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/atri-my-dear-moments/",
+    "category": "Romance"
+  },
+  {
+    "id": "yeosin-gangnim/",
+    "title": "Yeosin Gangnim",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/08/9gpc8kIhNEG7r0VTkyI9aVBxdO3-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/yeosin-gangnim/",
+    "category": "Comédia"
+  },
+  {
+    "id": "elf-san-wa-yaserarenai/",
+    "title": "Elf-san wa Yaserarenai.",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/07/w8sOJ5FFG7nbGnU28hNiYLUgo2T-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/elf-san-wa-yaserarenai/",
+    "category": "Comédia"
+  },
+  {
+    "id": "nige-jouzu-no-wakagimi/",
+    "title": "Nige Jouzu no Wakagimi ",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/07/gW8x0XBgz2I2IP9RaRobONHXRwy-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/nige-jouzu-no-wakagimi/",
+    "category": "Comédia"
+  },
+  {
+    "id": "mayonaka-punch/",
+    "title": "Mayonaka Punch ",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/07/rbAJrG7o5qhICPat3rRgVkYkRht-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/mayonaka-punch/",
+    "category": "Comédia"
+  },
+  {
+    "id": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita/",
+    "title": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/07/9NivXf13bsUsL5ipeZwByuwJLcB-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita/",
+    "category": "Comédia"
+  },
+  {
+    "id": "isekai-shikkaku/",
+    "title": "Isekai Shikkaku",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/07/v3uwUtThi2ey5wBauXuHnPP8Eu2-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/isekai-shikkaku/",
+    "category": "Comédia"
+  },
+  {
+    "id": "dandadan/",
+    "title": "Dandadan",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/10/4h2m9BO7milJaCsbKBgKvCX0dOZ-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/dandadan/",
+    "category": "Comédia"
+  },
+  {
+    "id": "maou-2099/",
+    "title": "Maou",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/10/3P7IKSMKdgr7jfudIqpXSiI4kQI-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/maou-2099/",
+    "category": "Fantasia"
+  },
+  {
+    "id": "dragon-ball-daima/",
+    "title": "Dragon Ball Daima",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/10/73rGI735Tzf5ohSBh4rE06uyVyD-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/dragon-ball-daima/",
+    "category": "Fantasia"
+  },
+  {
+    "id": "youkai-gakkou-no-sensei-hajimemashita/",
+    "title": "Youkai Gakkou no Sensei Hajimemashita! ",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/10/iJUgPs4hjyeDL3zfEjHTETTm7jc-1-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/youkai-gakkou-no-sensei-hajimemashita/",
+    "category": "Fantasia"
+  },
+  {
+    "id": "sayounara-ryuusei-konnichiwa-jinsei/",
+    "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/10/zuvBnPZthJtk9BNGEyLtOlguiyd-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/sayounara-ryuusei-konnichiwa-jinsei/",
+    "category": "Fantasia"
+  },
+  {
+    "id": "acro-trip/",
+    "title": "Acro Trip",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/10/m8gCokxIPWCnBQPmxTjt3Crliep-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/acro-trip/",
+    "category": "Fantasia"
+  },
+  {
+    "id": "hitoribocchi-no-isekai-kouryaku/",
+    "title": "Hitoribocchi no Isekai Kouryaku ",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/09/nB2tJc884qzjFdc1KeYsspbvLs5-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/hitoribocchi-no-isekai-kouryaku/",
+    "category": "Fantasia"
+  },
+  {
+    "id": "nageki-no-bourei-wa-intai-shitai/",
+    "title": "Nageki no Bourei wa Intai shitai",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/09/7rPMs32O4RJsYtX52WbT5ztDeYp-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/nageki-no-bourei-wa-intai-shitai/",
+    "category": "Fantasia"
+  },
+  {
+    "id": "big-order/",
+    "title": "Big Order",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2019/09/n5jDsiekbTmfk8ZwxEOFGPUJzek-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/big-order/",
+    "category": "Super Poderes"
+  },
+  {
+    "id": "sekirei/",
+    "title": "Sekirei",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2019/11/72gRgK8t7FSqY3El41nguj272vR-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/sekirei/",
+    "category": "Super Poderes"
+  },
+  {
+    "id": "punchline/",
+    "title": "Punchline",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2020/03/wj2Gx45z3pdcn6JBnVDGdMHW0PP-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/punchline/",
+    "category": "Super Poderes"
+  },
+  {
+    "id": "hitori-no-shita-the-outcast/",
+    "title": "Hitori No Shita: The Outcast",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2020/04/qweqwaaaaxxc-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/hitori-no-shita-the-outcast/",
+    "category": "Super Poderes"
+  },
+  {
+    "id": "record-of-ragnarok/",
+    "title": "Record of Ragnarok",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2021/06/ygE1AEV6pXFuCzbjS9ts59LxDm5-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/record-of-ragnarok/",
+    "category": "Super Poderes"
+  },
+  {
+    "id": "high-card/",
+    "title": "High Card",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2023/01/aGyV4sV4P0y4NXuguucNOo3eolp-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/high-card/",
+    "category": "Super Poderes"
+  },
+  {
+    "id": "code-geass-dakkan-no-roze/",
+    "title": "Code Geass: Dakkan no Rozé",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/06/pIMZIqTQzcXRlOWG2tzB267w29B-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/code-geass-dakkan-no-roze/",
+    "category": "Super Poderes"
+  },
+  {
+    "id": "blue-archive-the-animation/",
+    "title": "Blue Archive The Animation ",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/04/1hFBzhEgF5DayZrgQqOhBDwtkdL-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/blue-archive-the-animation/",
+    "category": "Escolar"
+  },
+  {
+    "id": "tasogare-out-focus/",
+    "title": "Tasogare Out Focus",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/07/5qgdbIbgG6cA7xDpFyTRoFhMZFH-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/tasogare-out-focus/",
+    "category": "Escolar"
+  },
+  {
+    "id": "houkago-shounen-hanako-kun/",
+    "title": "Houkago Shounen Hanako-kun",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2023/10/RRoUHqAwa5ulTldqLzU7Wh4T19-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/houkago-shounen-hanako-kun/",
+    "category": "Escolar"
+  },
+  {
+    "id": "hananoi-kun-to-koi-no-yamai/",
+    "title": "Hananoi-kun to Koi no Yamai",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/04/pPrQq7NGZc6W8QBkLIHCwKQ1ytw-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/hananoi-kun-to-koi-no-yamai/",
+    "category": "Escolar"
+  },
+  {
+    "id": "wind-breaker/",
+    "title": "Wind Breaker",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/04/sUolgK3Ud442pr4DY611q1hWmzr-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/wind-breaker/",
+    "category": "Escolar"
+  },
+  {
+    "id": "shoushimin-series/",
+    "title": "Shoushimin Series",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/07/9ri01JvmNHUlqZo77K3CZn5rUhw-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/shoushimin-series/",
+    "category": "Escolar"
+  },
+  {
+    "id": "shikanoko-nokonoko-koshitantan/",
+    "title": "Shikanoko Nokonoko Koshitantan ",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/07/9yfMi1XzTFnRUVjrGNMZPqmtXpx-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/shikanoko-nokonoko-koshitantan/",
+    "category": "Escolar"
+  },
+  {
+    "id": "burn-the-witch/",
+    "title": "Burn the Witch",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2020/10/6enlCvw4wglvR67AWx8C3q84dYF-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/burn-the-witch/",
+    "category": "Magia"
+  },
+  {
+    "id": "maoujou-de-oyasumi/",
+    "title": "Maoujou de Oyasumi ",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2020/09/3bmu7Mg7Sc6IfHgvt98WNChaOkR-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/maoujou-de-oyasumi/",
+    "category": "Magia"
+  },
+  {
+    "id": "assault-lily-bouquet/",
+    "title": "Assault Lily: Bouquet",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2020/10/jZcEr6v5PMjv9ZoaB1bx8oXj6f9-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/assault-lily-bouquet/",
+    "category": "Magia"
+  },
+  {
+    "id": "kings-raid-ishi-wo-tsugumono-tachi/",
+    "title": "King’s Raid: Ishi wo Tsugumono-tachi",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2020/10/A5rjiJcRwNuGQxYehOrsngku8e7-1-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/kings-raid-ishi-wo-tsugumono-tachi/",
+    "category": "Magia"
+  },
+  {
+    "id": "mahouka-koukou-no-yuutousei/",
+    "title": "Mahouka Koukou no Yuutousei",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2021/07/zXN3jur7j2R6zw9ed3jm0rqYtzu-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/mahouka-koukou-no-yuutousei/",
+    "category": "Magia"
+  },
+  {
+    "id": "d_cide-traumerei-the-animation/",
+    "title": "D_Cide Traumerei the Animation ",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2021/07/z5BEjsn820bDzwQz8lPThCHAHkq-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/d_cide-traumerei-the-animation/",
+    "category": "Magia"
+  },
+  {
+    "id": "eiyuuou-bu-wo-kiwameru-tame-tenseisu-soshite-sekai-saikyou-no-minarai-kishi/",
+    "title": "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2023/01/yUg8JYdMY4n27XwJmOgDJjF7Vqa-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/eiyuuou-bu-wo-kiwameru-tame-tenseisu-soshite-sekai-saikyou-no-minarai-kishi/",
+    "category": "Magia"
+  },
+  {
+    "id": "fuuto-tantei/",
+    "title": "Fuuto Tantei",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2022/08/cGqVVzQQ2VvFcRwd7V9F4jYNkZR-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/fuuto-tantei/",
+    "category": "Mistério"
+  },
+  {
+    "id": "kemono-jihen/",
+    "title": "Kemono Jihen",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2021/01/1ON3UrcmyECZAMug7htkszoNoMC-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/kemono-jihen/",
+    "category": "Mistério"
+  },
+  {
+    "id": "hikari-no-ou/",
+    "title": "Hikari no Ou",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2023/01/adfYirjfMdN5mNJE1B0J4qD5DP0-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/hikari-no-ou/",
+    "category": "Mistério"
+  },
+  {
+    "id": "kamonohashi-ron-no-kindan-suiri/",
+    "title": "Kamonohashi Ron no Kindan Suiri ",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2023/10/v6JTMiRZVLw8DHjn8wWzxuh5SRt-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/kamonohashi-ron-no-kindan-suiri/",
+    "category": "Mistério"
+  },
+  {
+    "id": "kusuriya-no-hitorigoto/",
+    "title": "Kusuriya no Hitorigoto",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2023/10/1TJxoEcA8hZs3iusx0AKMUY12IX-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/kusuriya-no-hitorigoto/",
+    "category": "Mistério"
+  },
+  {
+    "id": "kaii-to-otome-to-kamikakushi/",
+    "title": "Kaii to Otome to Kamikakushi",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/04/ajebLoD1DveJrBX7kG9W5HtLeLx-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/kaii-to-otome-to-kamikakushi/",
+    "category": "Mistério"
+  },
+  {
+    "id": "shoushimin-series/",
+    "title": "Shoushimin Series",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/07/9ri01JvmNHUlqZo77K3CZn5rUhw-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/shoushimin-series/",
+    "category": "Mistério"
+  },
+  {
+    "id": "mayoiga/",
+    "title": "Mayoiga",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2019/08/n58DeldWPyD7nWtn5GyKxdd25Ee-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/mayoiga/",
+    "category": "Terror"
+  },
+  {
+    "id": "gantz/",
+    "title": "Gantz",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2020/02/dwVD3QkTT8nKbLzu1MpXEuvv7n3-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/gantz/",
+    "category": "Terror"
+  },
+  {
+    "id": "ghost-hunt/",
+    "title": "ghost Hunt",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2020/02/vusjzsOpQDYucTJNhixi8LKYKgu-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/ghost-hunt/",
+    "category": "Terror"
+  },
+  {
+    "id": "zom-100-bucket-list-of-the-dead/",
+    "title": "Zom 100",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2023/07/XzOeAppGpnsSAiK82idkg0BoCt-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/zom-100-bucket-list-of-the-dead/",
+    "category": "Terror"
+  },
+  {
+    "id": "gakkou-gurashi/",
+    "title": "Gakkou Gurashi",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2020/02/yGPiYNIqzXYUJKyfIVMmWqtjidi-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/gakkou-gurashi/",
+    "category": "Terror"
+  },
+  {
+    "id": "uzumaki/",
+    "title": "Uzumaki",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/09/wtQIgqEQEIQnNqLVGTShUf7qLap-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/uzumaki/",
+    "category": "Terror"
+  },
+  {
+    "id": "dark-gathering/",
+    "title": "Dark Gathering",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2023/07/hz0jMLjqg0BlBTCEe9a7cVj1b49-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/dark-gathering/",
+    "category": "Terror"
+  },
+  {
+    "id": "love-all-play/",
+    "title": "Love All Play",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2022/04/8FX7imswqdcdlfmh9yXPWoeGiHA-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/love-all-play/",
+    "category": "Esportes"
+  },
+  {
+    "id": "kuroko-no-basket/",
+    "title": "Kuroko No Basket",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2019/07/ftT1qtT6yWO5rfs237a466N8QRr-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/kuroko-no-basket/",
+    "category": "Esportes"
+  },
+  {
+    "id": "futsal-boys/",
+    "title": "Futsal Boys",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2022/01/mGJi3pu20DXorvo08SNSzwyH9qf-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/futsal-boys/",
+    "category": "Esportes"
+  },
+  {
+    "id": "gunjou-no-fanfare/",
+    "title": "Gunjou no Fanfare",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2022/04/l8s8FynNv7yWiupjjOfLccTd5S6-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/gunjou-no-fanfare/",
+    "category": "Esportes"
+  },
+  {
+    "id": "aoashi/",
+    "title": "Aoashi",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2022/04/ffy4Cx0wzlFxUFKdzEPr2rlZV5s-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/aoashi/",
+    "category": "Esportes"
+  },
+  {
+    "id": "blue-lock/",
+    "title": "Blue Lock",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2022/10/dEULf5vD0e2LpbU1X6JWlB5KYZ-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/blue-lock/",
+    "category": "Esportes"
+  },
+  {
+    "id": "na-nare-hana-nare/",
+    "title": "Na Nare Hana Nare",
+    "img": "https://animesonlinecc.to/wp-content/uploads/2024/07/tj7nazeCGUbsEfp1le2mcLTG3U9-185x278.jpg",
+    "url": "https://animesonlinecc.to/anime/na-nare-hana-nare/",
+    "category": "Esportes"
+  }
+]

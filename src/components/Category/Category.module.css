@@ -3,6 +3,13 @@
     flex-direction: column;
 }
 
+.category h2 {
+    font-size: 1.90rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: #fff;
+}
+
 .category section {
     display: flex;
     flex-wrap: wrap;
