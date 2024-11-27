@@ -1,0 +1,12 @@
+.container {
+    height: 49.55rem;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.container h2 {
+    font-size: 3rem;
+    padding-right: 6rem;
+    margin-left: 2rem;
+}

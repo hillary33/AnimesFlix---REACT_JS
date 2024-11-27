@@ -1,7 +1,7 @@
 import styles from './Watch.module.css';
-import Header from "../../../components/Header/header";
-import Footer from "../../../components/Footer/footer";
-import Container from "../../../components/Container/container";
+import Header from "../../components/Header/header";
+import Footer from "../../components/Footer/footer";
+import Container from "../../components/Container/container";
 
 function Watch() {
     return(
