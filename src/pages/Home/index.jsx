@@ -1,24 +1,17 @@
 import Footer from '../../components/Footer/footer';
 import Header from '../../components/Header/header';
 import Banner from '../../components/Banner/banner';
-import Container from '../../components/Container/container';
-import Category, { categories, filterCategory } from '../../components/Category/category';
-import Card from '../../components/Card/card';
-
-
+import styles from './Home.module.css';
 
 function Home() {
 return(
     <>
         <Header />
-        <Banner image="Banner01"/>
-        <Container>
-            { categories.map((category, index) =>
-                <Category category={category}>
-                    { filterCategory(index).map((ctnAnime) => <Card id={ctnAnime.id} img={ctnAnime.img} key={ctnAnime.id} />)}
-                </Category>
-            )}
-        </Container>
+        <Banner image="Banner"/>
+        <div className={styles.box}>
+            <h1>Venha assistir seus animes favoritos com o AnimesFlix</h1>
+            <p>Faça um perfil para que possa gerenciar sua conta e receber sugestões para assistir outros conteudos</p>
+        </div>
         <Footer />
     </>
 );

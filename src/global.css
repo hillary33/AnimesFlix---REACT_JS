@@ -1,5 +1,7 @@
 /* formatação dos cards */
-
+* {
+    background-color: #a4a1a2;
+}
 .cards {
     display: flex;
     gap: 0.3rem;

@@ -5,7 +5,7 @@ export default function Footer(){
     return(
         <>
             <footer className={styles.footer}>
-                <h2>CopyFlix &copy; Desenvolvida por Hillary Santos em 2024</h2>
+                <h2>AnimesFlix &copy; Desenvolvida por Hillary Santos em 2025</h2>
             </footer>
         </>
     )

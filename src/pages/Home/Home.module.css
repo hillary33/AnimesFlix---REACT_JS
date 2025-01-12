@@ -1,0 +1,14 @@
+.box h1 {
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    font-weight: 200;
+    padding: 7px;
+}
+
+.box p{
+    font-weight: 100;
+    font-size: 18px;
+    align-self: center;
+    justify-self: center;
+}
